@@ -3,7 +3,7 @@ web-app-chart:
   appName: "cicdtest"
   environment: "dev"
   repo: "https://github.com/sebokoslav/ci-cd-test-app-config.git"
-  containerPort: 8080
+  containerPort: 80
   externalPort: 3000
   targetPort: 80
   replicas: 2
