@@ -6,4 +6,4 @@ web-app-chart:
   containerPort: 8080
   externalPort: 3000
   targetPort: 80
-  replicas: 1
+  replicas: 2
