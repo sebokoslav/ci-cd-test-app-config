@@ -5,5 +5,5 @@ web-app-chart:
   repo: "https://github.com/sebokoslav/ci-cd-test-app-config.git"
   containerPort: 80
   externalPort: 3000
-  targetPort: 8080
+  targetPort: 80
   replicas: 2
