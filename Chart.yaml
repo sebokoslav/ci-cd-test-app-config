@@ -1,0 +1,8 @@
+apiVersion: v2
+name: ci-cd-test-app
+version: 0.1.0
+appVersion: "1.16.0"
+dependencies:
+  - name: web-app-chart
+    version: 0.2.1
+    repository: https://sebokoslav.github.io/web-app-chart/
