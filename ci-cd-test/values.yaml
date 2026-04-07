@@ -1,5 +1,5 @@
 web-app-chart:
-  image: "sebokoslav/ci-cd-test-app:1.1.0-alpha.59"
+  image: "sebokoslav/ci-cd-test-app:1.1.0-alpha.53"
   appName: "cicdtest"
   environment: "dev"
   repo: "https://github.com/sebokoslav/ci-cd-test-app-config.git"
